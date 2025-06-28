@@ -9,3 +9,9 @@ Bem vindo ao repositorio! Este é um projeto de exemplo para demostrar o uso bas
 - Markdown
 
 ## Estrutura do Projeto
+
+## Adicionando Conteudo Remotamente
+
+---
+
+## Como trabalhar com Git
